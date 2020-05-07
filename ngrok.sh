@@ -70,7 +70,7 @@ ${verde}└═══════════════════════
 └═>>> "${blanco}
 
 read -r respuesta
-${respuesta}
+$respuesta
 NGROK
 echo -e "
 ${verde}┌══════════════════════════════════┐
