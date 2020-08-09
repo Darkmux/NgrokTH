@@ -1,6 +1,5 @@
 # NgrokTH
 Instalación Correcta De Ngrok En Termux
-# Created by: Termux Hacking
 #
 # INSTALACIÓN
 #
@@ -10,3 +9,4 @@ chmod 711 ngrok.sh
 #
 Escriba su authtoken de Ngrok y pulse Enter
 #
+# Created by: Informatic_in_Termux
